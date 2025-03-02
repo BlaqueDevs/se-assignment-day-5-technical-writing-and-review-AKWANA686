@@ -137,6 +137,6 @@ Problem Solved: Briefly explain the problem it addresses.
 
 Key Features: Highlight 2-3 main functionalities or benefits.
 
-Target Audience: Identify who it’s for.
+Target Audience: Identify who its for.
 
 Differentiator: Mention what makes it unique or better than alternatives.
